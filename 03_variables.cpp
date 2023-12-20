@@ -1,4 +1,5 @@
 //variables in c++
+//data types
 // 		int - intiger - 12, 3, 5
 // 		double - floating point numbers - 3.3, 7.8
 //		char - single charater - a, b, D
